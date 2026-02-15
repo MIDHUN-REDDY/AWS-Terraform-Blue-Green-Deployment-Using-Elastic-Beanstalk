@@ -104,6 +104,7 @@ Visit the Blue environment URL. You should see:
 - Basic feature set
 
 ## 🟢 Testing the Green Environment (Staging - v2.0)
+<img width="1919" height="1020" alt="Screenshot 2026-02-15 152744" src="https://github.com/user-attachments/assets/a60710c1-9a00-47b8-ab1c-55bec67e74b7" />
 
 Visit the Green environment URL. You should see:
 - **Version 2.0** displayed prominently
