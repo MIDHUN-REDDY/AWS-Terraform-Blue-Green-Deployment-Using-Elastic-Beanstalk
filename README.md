@@ -95,6 +95,7 @@ You'll see the URLs for both environments:
 - **Green Environment (Staging):** `http://my-app-bluegreen-green-xxxxxx.elasticbeanstalk.com`
 
 ## 🔵 Testing the Blue Environment (Production - v1.0)
+<img width="1569" height="836" alt="Screenshot 2026-02-15 152812" src="https://github.com/user-attachments/assets/3a9ee207-4cb5-453f-8be1-dc483ed8d6b6" />
 
 Visit the Blue environment URL. You should see:
 - **Version 1.0** displayed prominently
